@@ -12,5 +12,61 @@
     "title": "Bad English",
     "date": "2024-01-02",
     "description": "Something I saw in China."
+  },
+  {
+    "category": "drawings",
+    "fileName": "2.jpeg",
+    "title": "Erlikosaurus",
+    "date": "2026-09-14",
+    "description": "Dinosaur with a very intresting name."
+  },
+  {
+    "category": "gadgets",
+    "fileName": "1.jpeg",
+    "title": "My monitors",
+    "date": "owned",
+    "description": "Acer Nitro XZ272U X2"
+  },
+  {
+    "category": "gadgets",
+    "fileName": "2.jpeg",
+    "title": "TOKB Keyboard",
+    "date": "owned",
+    "description": "TOKB"
+  },
+  {
+    "category": "gadgets",
+    "fileName": "3.jpeg",
+    "title": "Xbox Controller",
+    "date": "owned",
+    "description": "Xbox Series X Controller, I use it for gaming on PC."
+  },
+  {
+    "category": "gadgets",
+    "fileName": "4.jpeg",
+    "title": "The Tower",
+    "date": "owned",
+    "description": "Pre-built Cyber Power PC from Bestbuy."
+  },
+  {
+    "category": "gadgets",
+    "fileName": "5.jpeg",
+    "title": "Razer Kishi V2",
+    "date": "owned",
+    "description": "I game on my phone sometimes."
+  },
+  {
+    "category": "gadgets",
+    "fileName": "6.jpeg",
+    "title": "Switch 2",
+    "date": "owned",
+    "description": "For Nintendo games and living room console."
+  },
+  {
+    "category": "gadgets",
+    "fileName": "7.jpeg",
+    "title": "Switch Pro Controller",
+    "date": "owned",
+    "description": "This is for last generation Switch but still works with Switch 2."
   }
 ]
