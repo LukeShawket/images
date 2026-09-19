@@ -110,5 +110,26 @@
     "title": "Skateboarding on Campus",
     "date": "2018-04-21",
     "description": "I loved skateboarding back in college."
+  },
+  {
+    "category": "drawings",
+    "fileName": "4.jpg",
+    "title": "Pixel Profile",
+    "date": "2022-08-13",
+    "description": "Some more pixel art. I need to practice drawing faces more!"
+  },
+  {
+    "category": "drawings",
+    "fileName": "5.jpeg",
+    "title": "Dr.Dre",
+    "date": "2016-05-01",
+    "description": "Sketched this during Chinese class. I can't believe it's been ten years!"
+  },
+  {
+    "category": "drawings",
+    "fileName": "6.jpeg",
+    "title": "Ford Mustang",
+    "date": "???",
+    "description": "A sketch of a Ford Mustang from my high school days."
   }
 ]
