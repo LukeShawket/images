@@ -75,5 +75,12 @@
     "title": "Dark Forest",
     "date": "2023-07-13",
     "description": "..."
+  },
+  {
+    "category": "gadgets",
+    "fileName": "8.jpg",
+    "title": "Steam Deck",
+    "date": "archived",
+    "description": "I no longer play games like I used to, so I sold my deck."
   }
 ]
