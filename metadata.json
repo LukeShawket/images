@@ -82,5 +82,33 @@
     "title": "Steam Deck",
     "date": "archived",
     "description": "I no longer play games like I used to, so I sold my deck."
+  },
+  {
+    "category": "photos",
+    "fileName": "2.jpg",
+    "title": "Uyghur Restaurant in Ghulja",
+    "date": "2024-01-07",
+    "description": "Fancy Uyghur Restaurant"
+  },
+  {
+    "category": "photos",
+    "fileName": "3.jpg",
+    "title": "Window View at My Parents' House",
+    "date": "2024-01-02",
+    "description": "A view from the window during my last time in Ghulja."
+  },
+  {
+    "category": "photos",
+    "fileName": "4.jpg",
+    "title": "Summit of Mount Tai",
+    "date": "2021-05-13",
+    "description": "My friends and I hiked through the night to reach the summit for sunrise."
+  },
+  {
+    "category": "photos",
+    "fileName": "5.jpg",
+    "title": "Skateboarding on Campus",
+    "date": "2018-04-21",
+    "description": "I loved skateboarding back in college."
   }
 ]
